@@ -6,7 +6,7 @@
     width: 1600px;
     height: 809px;
     border: 1px;
-    border-color: rgb(18, 170, 240);
+    border-color: rgb(247, 248, 248);
     border-style: solid;
     background-image: url(/images/banner/banner2.png);
     background-repeat: no-repeat;
@@ -47,4 +47,134 @@
     height: 64px;
     border-radius: 5px;
     background-color: #FD6E0A;
+}
+.btn-main2{
+    margin-top: 10px;
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+    color: #FD6E0A;
+    font-weight: 600;
+    font-size: 20px;
+    border: 0px;
+    padding: 12px 28px;
+    line-height: 25px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: white;
+
+}
+.section{
+    width: 1600px;
+    height: 809px;
+    border: 1px;
+    border-color: rgb(237, 239, 240);
+    border-style: solid;
+}
+.myplan-section{
+    width: 1600px;
+    height: 600px;
+    border: 1px;
+    border-color: rgb(237, 239, 240);
+    border-style: solid;
+
+}
+.nav{
+    display: flex;
+    margin: 50px;
+    justify-content: space-between;
+}
+nav div{
+    text-align: left;
+    margin-left: 20%;
+    margin-top: 20%;
+}
+.nav-h2{
+    font-weight: bolder;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 20px;
+}
+.nav-p{
+    font-size: x-large;
+    font-weight: 400;
+    margin-bottom: 10px;
+}
+nav div ul li{
+    margin-top: 15px;
+    list-style: none;
+    text-align: left;
+   
+ 
+}
+.my-plan-h2{
+    font-weight: 700;
+    margin-bottom: 15px;
+    text-align: center;
+    font-size: 50px
+}
+
+.my-plan-div{
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0% 15%;
+}
+.mindset-div{
+    margin-top: 50px;
+    margin-left: 17%;
+   color: #f5f3f3;
+    width: 1000px;
+    height: 200px;
+    font-weight: 600;
+    font-size: 20px;
+    border: 0px;
+    padding-left: 50px ;
+    padding-top: 80px;
+    line-height: 25px;
+    background-image: url(/images/watch.png),url(/images/gradient2.png);
+    background-blend-mode: multiply;
+    border-radius: 5px;
+
+
+}
+.footer{
+    width: 1600px;
+    height: 350px;
+    border: 1px;
+    border-color: rgb(247, 248, 248);
+    border-style: solid;
+    background-color: black;
+}
+.footer-div{
+    text-align: left;
+    color: #f5f3f3;
+    margin-top: 7%;
+    margin-left: 7%;
+    margin-right: 18%;
+    display: flex;
+    justify-content: space-between;
+
+    
+}
+.footer-paragraph{
+    margin: 15px;
+    
+}
+.input-class{
+
+    padding: 10px 5px;
+    font-weight: 400;
+    font-size: 20px;
+   background-color: black;
+    line-height: 25px;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px;
+    border-color: rgb(247, 248, 248);
+    border-style: solid;
+
+    
+}
+.subs{
+    margin-bottom: 10px;
 }
