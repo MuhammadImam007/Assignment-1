@@ -178,3 +178,17 @@ nav div ul li{
 .subs{
     margin-bottom: 10px;
 }
+
+
+
+.bonus-section-h2{
+    text-align: center;
+    margin-top: 15px;
+    color: brown;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+
+}
+.youtube{
+    margin-left: 10%;
+}
