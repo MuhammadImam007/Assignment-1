@@ -47,6 +47,7 @@
     height: 64px;
     border-radius: 5px;
     background-color: #FD6E0A;
+    margin-top: 15px;
 }
 .btn-main2{
     margin-top: 10px;
@@ -184,11 +185,21 @@ nav div ul li{
 .bonus-section-h2{
     text-align: center;
     margin-top: 15px;
-    color: brown;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(112, 166, 226);
+    font-family: sans-serif;
     font-size: 40px;
 
 }
 .youtube{
     margin-left: 10%;
+}
+.bonus-div{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 15px;
+
+
 }
