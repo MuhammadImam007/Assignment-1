@@ -8,7 +8,7 @@
     border: 1px;
     border-color: rgb(247, 248, 248);
     border-style: solid;
-    background-image: url(/images/banner/banner2.png);
+    background-image: url(../images/banner/banner2.png);
     background-repeat: no-repeat;
 }
 .div2{padding: 8px;
@@ -132,7 +132,7 @@ nav div ul li{
     padding-left: 50px ;
     padding-top: 80px;
     line-height: 25px;
-    background-image: url(/images/watch.png),url(/images/gradient2.png);
+    background-image: url(../images/watch.png),url(../images/gradient2.png);
     background-blend-mode: multiply;
     border-radius: 5px;
 
